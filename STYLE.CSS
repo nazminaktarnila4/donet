@@ -1,0 +1,261 @@
+.Donate{
+    background-image: url('images/donation5.jpg');
+    height: 700px;
+     background-repeat: no-repeat;
+     background-attachment: scroll;
+     background-size: 100% 100%;
+     
+}
+.Donate{
+    padding: 166px 384px 345px 266px;
+}
+.color{
+    color: #ffffff;
+    text-align: center;
+    font-size: 65px;
+}
+.color1{
+    text-align: center;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 25px;
+}
+.btn{
+    text-align: center;
+}
+.btn1{
+    background-color: #ff5959;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 18px;
+    border: none;
+}
+.green{
+    margin: 135px 374px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.Rose{
+    text-align: center;
+    font-size: 40px;
+    font-weight:600px;
+}
+.red{
+    text-align: center;
+    color: #707070;
+}
+.bt{
+    padding: 16px 20px;
+    border-radius: 5px;
+    background-color: #ff5959;
+    border: none;
+    color: #ffffff;
+    margin-top: 30px;
+}
+    
+.lotus{
+    list-style: none;
+   display: flex;   
+}
+.add{
+    font-size:30px;
+    font-weight: 50px;
+    background-color: #FFEEEE;
+    padding: 43px 24px 44px 25px;
+    border-radius: 5px;
+    margin-left: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #707070;
+    border: 2px solid #ff5959;
+}
+.add:hover{
+    background-color: #ff5959;
+}
+.vialod{
+    font-size: 30ps;
+    font-weight:50px;
+    border-radius: 5px;
+    margin-left: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #707070;
+    padding: 43px 24px 44px 25px;
+    background-color: #FFEEEE;
+}
+.nr{
+   color: #939393;
+}
+.baba{
+    display: flex;
+}
+.plan{
+    padding: 50px 375px;
+    text-align: center;
+}
+.nila{
+    font-size: 45px;
+    font-weight: 700px;
+    text-align: center;
+    margin-top: 130px;
+    color:#707070;
+
+}
+.nasif{
+    font-weight: 20px;
+    font-size: 18px;
+    color: #707070;
+    margin: 45px 50px;
+}
+.nn{
+    text-align: center;
+    color: #707070;
+}
+.baba{
+    text-align: center;
+    display: flex;
+    font-weight: 20px;
+
+
+
+}
+.st{ 
+    padding: 63px 23px 54px 22px;
+    margin-left:12px;
+    border-radius: 5px;
+    background-color: #eeffee;
+    font-weight: 150px;
+}
+.tt{
+    padding:63px 23px 54px 22px;
+    background-color: #ffefef;
+    margin-left:12px;
+    border-radius: 5px;
+    font-weight: 15px;
+}
+.mn{
+    padding: 63px 23px 54px 22px;
+    background-color: #fff4d6;
+    margin-left: 12px;
+    border-radius: 5px;
+    font-weight: 15px;
+}
+.flax{
+    display: flex;
+}
+.pink{
+    padding: 40px;
+}
+    .nura{
+        text-align: center;
+        font-size: 45px;
+        font-weight: 800;
+        margin: 170px 83px 20px 120px;
+        margin-left: 45px;
+        margin-right: 90px;
+    } 
+    .nur{
+        background-color: #ff5959;
+        color: #FFEEEE;
+        padding: 16px 20px;
+        font-weight: 400;
+        font-size: 18px;
+        margin-top: 30px;
+        border: none;
+       border-radius: 5px; 
+}
+.orange{
+    padding-left: 34px;
+    font-size: 400px;
+    font-weight: 420px;
+    }
+
+.flax2{
+    display: flex;
+}
+.nuri{
+    padding: 40px;
+}
+    .sn{
+        text-align: center;
+        font-size: 45px;
+        font-weight: 800;
+        margin: 170px 83px 20px 120px;
+        margin-left: 5px;
+        margin-right:90px ;
+    }
+    .pg{
+        font-weight: 600px;
+        font-size: 45px;
+        margin: 182px 83px 20px 155px;
+        margin-left:5px;
+        margin-right: 90px;
+        }
+.mari{
+    background-color: #ff5959;
+    text-align: center;
+    color:#FFEEEE;
+    padding:16px 20px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top:30px;
+    border:none;
+    border-radius: 5px;    
+}
+.bela{
+    text-align: center;
+    margin-top: 130px;
+    margin: 20px 474px 50px 475px;
+}
+.rose{
+    font-weight: 700px;
+    font-size: 45px;
+}
+.lily{
+    font-size: 18px;
+    font-weight: 400;
+    color: #aeaeae;
+}
+.foot{
+    background-color: #0B0D17;
+}
+.book{
+    color: #ff5959;
+    text-align: center;
+    padding-top: 43px;
+    margin-bottom: 48px;
+    font-family: italic;
+}
+.go{
+    color: #8c8e95;
+    text-align: center;
+    padding-bottom: 42px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.abc{
+    background-color: #fff4d6;
+    margin: 0px 415px 130px 415px;
+    padding: 76px 245px 76px 189px;
+}
+.email{
+  padding: 14px 18px 14px 17px;
+  border: none; 
+  font-weight: 500; 
+  font-size: 16px;
+  background-color: #d9d9d9;
+}
+.button{
+    background-color:#ff5959;
+    color:white;
+    font-size:16px;
+    border: none;
+    border-radius:5px;
+    font-weight:500px;
+    padding: 14px 42px;
+}
+.efg{
+    display: flex;
+}
+
+
